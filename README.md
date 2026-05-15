@@ -7,6 +7,9 @@ A sleek, web-based decision maker built with **Streamlit**. Can't decide what to
 - **Dynamic List:** Add new food options on the fly.
 - **Web-Based:** Runs in your browser via Streamlit.
 
+## Link
+- https://dinnerdecider.streamlit.app/
+  
 ## Getting Started
 
 ### Prerequisites
